@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nicee-Dicee/ViewController.swift"
+            timestampString = "538177195.555241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of Nicee_Dicee.ViewController.diceArray : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Nicee-Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyespinosa/Documents/iOS%20Dev/Nicee-Dicee/Nicee-Dicee/ViewController.swift"
+                  timestampString = "538177163.5746419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nicee_Dicee.ViewController.diceArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Nicee-Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyespinosa/Documents/iOS%20Dev/Nicee-Dicee/Nicee-Dicee/ViewController.swift"
+                  timestampString = "538177163.577888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nicee_Dicee.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Nicee_Dicee.ViewController"
+                  moduleName = "Nicee-Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyespinosa/Documents/iOS%20Dev/Nicee-Dicee/Nicee-Dicee/ViewController.swift"
+                  timestampString = "538177163.581109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Nicee_Dicee.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Nicee_Dicee.ViewController&gt;"
+                  moduleName = "Nicee-Dicee"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jimmyespinosa/Documents/iOS%20Dev/Nicee-Dicee/Nicee-Dicee/ViewController.swift"
+                  timestampString = "538177163.584422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nicee-Dicee/ViewController.swift"
+            timestampString = "538177195.555673"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
